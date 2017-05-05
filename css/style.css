@@ -1,0 +1,99 @@
+/** {
+	border: 1px solid black;
+}*/
+
+body {
+	display: block;
+}
+
+h1 {
+	font-family: "bodoni-urw";
+	font-weight: 100;
+}
+
+h2 {
+	font-family: "bodoni-urw";
+	font-style: italic;
+	letter-spacing: .1em;
+	color: white;
+
+}
+
+h3 {
+	font-family: "lato";
+	font-weight: 100;
+}
+
+p {
+	font-family: "lato",sans-serif;
+	font-weight: 200;
+	font-size: 1.1em;
+	opacity: 1;
+	bottom-margin: ;
+}
+
+a {
+	color: #414041;
+}
+
+a:visited,
+a:hover,
+a:focus,
+a:active {
+  color: grey;
+}
+
+a:after {
+	padding: 20px;
+	margin: -20px;
+}
+
+.date {
+	height: 50vh;
+	background-color: #068f9f;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.time {
+	height: 50vh;
+	background-color: #05713d;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.chat {
+	height: 50vh;
+	background-color: #d39407;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.todo {
+	height: 50vh;
+	background-color: #bf4e7a;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.img-contain {
+	max-width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
